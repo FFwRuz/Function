@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Return ile Fonksiyolar\Return Uygulaması\bin\Debug\Return Uygulaması.exe.config
+C:\Users\Administrator\Desktop\Return ile Fonksiyolar\Return Uygulaması\bin\Debug\Return Uygulaması.exe
+C:\Users\Administrator\Desktop\Return ile Fonksiyolar\Return Uygulaması\bin\Debug\Return Uygulaması.pdb
+C:\Users\Administrator\Desktop\Return ile Fonksiyolar\Return Uygulaması\obj\Debug\Return Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Return ile Fonksiyolar\Return Uygulaması\obj\Debug\Return Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Return ile Fonksiyolar\Return Uygulaması\obj\Debug\Return Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Return ile Fonksiyolar\Return Uygulaması\obj\Debug\Return Uygulaması.exe
+C:\Users\Administrator\Desktop\Return ile Fonksiyolar\Return Uygulaması\obj\Debug\Return Uygulaması.pdb
